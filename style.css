@@ -29,10 +29,11 @@ a {
 .hover {
     background-color: chartreuse;
 }
-img {
+div.minecraft img {
     width: 100%;
     height: auto;
 }
+
 
 
 div.inhalt h1 {
@@ -40,7 +41,7 @@ div.inhalt h1 {
 }
 div.inhalt {
     position: relative;
-	width: 500px;
+    width: 500px;
 	left: 50%;
 	margin-left: -250px;
 }
