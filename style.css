@@ -33,7 +33,10 @@ div.minecraft img {
     width: 100%;
     height: auto;
 }
-
+.minecrafters {
+    width: 40px;
+    height: auto;
+}
 
 
 div.inhalt h1 {
@@ -60,7 +63,11 @@ div.inhalt h3 {
     font-size: 20px;
 }
 div.inhalt li {
-    margin-left: 43%;
+    margin-left: 23%;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 17px;
+}
+.minecrafters {
+    width: 600px;
+    height: auto;
 }
